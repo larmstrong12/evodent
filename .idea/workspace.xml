@@ -78,13 +78,26 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="technology.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="technology.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/frontend/app/technology/technology.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="1.2085308">
+                <state vertical-scroll-proportion="-21.25">
                   <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
                   <folding />
                 </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/frontend/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.68345326">
+                  <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+                  <folding />
+                </state>
+              </provider>
+              <provider editor-type-id="MarkdownPreviewEditor">
+                <state />
               </provider>
             </entry>
           </file>
@@ -938,10 +951,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/app/technology/technology.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2085308">
+        <state vertical-scroll-proportion="-21.25">
           <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68345326">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
