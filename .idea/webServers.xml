@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="1d663c07-5f5c-4700-a2a1-fe0c919bb3c4" name="evodent" url="http://evodent.net">
-        <fileTransfer host="evodent.net" port="21" password="dfe6dfffdfdadfc9dfdadf9adfc2dfffdfdedff9df8cdff0dfd9dfe1" username="getjazz7">
+        <fileTransfer host="evodent.net" port="21" password="dfe0dfdfdfc4dfcfdf9bdf92df9bdf93df93df99" username="getjazz7">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
