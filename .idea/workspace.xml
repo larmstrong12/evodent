@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5dbf52e-42a2-4295-b972-a4e9033b38a0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend" afterPath="$PROJECT_DIR$/frontend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/app/contact/contact.html" afterPath="$PROJECT_DIR$/frontend/app/contact/contact.html" />
     </list>
@@ -35,7 +37,7 @@
       <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/app/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.541666">
+            <state vertical-scroll-proportion="-309.375">
               <caret line="495" column="1" selection-start-line="495" selection-start-column="1" selection-end-line="495" selection-end-column="1" />
               <folding />
             </state>
@@ -45,7 +47,7 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/app/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.916667">
+            <state vertical-scroll-proportion="0.0">
               <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#h5#0;n#span#0;n#a#0;n#div#2;n#section#0;n#div#0;n#!!top" expanded="true" />
@@ -57,8 +59,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.541667">
-              <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="26" column="100" selection-start-line="26" selection-start-column="100" selection-end-line="26" selection-end-column="100" />
               <folding>
                 <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -77,7 +79,7 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/app/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375">
+            <state vertical-scroll-proportion="0.0">
               <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
@@ -89,8 +91,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/app/contact/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8450704">
-              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.63380283">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
@@ -99,7 +101,18 @@
                 <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#2;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#1;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/app/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,7 +120,7 @@
       <file leaf-file-name="diagnostic-wax-ups.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/app/diagnostic-wax-ups/diagnostic-wax-ups.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875">
+            <state vertical-scroll-proportion="0.0">
               <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -133,7 +146,6 @@
         <option value="$PROJECT_DIR$/frontend/app/the-team/view2.js" />
         <option value="$PROJECT_DIR$/frontend/app/fixed-restorations/view2.js" />
         <option value="$PROJECT_DIR$/frontend/app/implants/view2.js" />
-        <option value="$PROJECT_DIR$/frontend/app/home/home.js" />
         <option value="$PROJECT_DIR$/frontend/app/fixed-restorations/fixe-restorations.html" />
         <option value="$PROJECT_DIR$/frontend/app/products/products.html" />
         <option value="$PROJECT_DIR$/frontend/app/the-team/the-team.html" />
@@ -142,17 +154,18 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/frontend/app/css/hexagons.min.css" />
         <option value="$PROJECT_DIR$/frontend/app/css/hexagons.css" />
-        <option value="$PROJECT_DIR$/frontend/app/app.js" />
         <option value="$PROJECT_DIR$/frontend/app/diagnostic-wax-ups/diagnostic-wax-ups.js" />
         <option value="$PROJECT_DIR$/frontend/app/fixed-restorations/fixed-restorations.html" />
         <option value="$PROJECT_DIR$/frontend/app/implants/implants.html" />
         <option value="$PROJECT_DIR$/frontend/app/monthly-special/monthly-special.html" />
         <option value="$PROJECT_DIR$/frontend/app/technology/technology.html" />
-        <option value="$PROJECT_DIR$/frontend/app/index.html" />
         <option value="$PROJECT_DIR$/frontend/app/diagnostic-wax-ups/diagnostic-wax-ups.html" />
         <option value="$PROJECT_DIR$/frontend/app/home/home.html" />
         <option value="$PROJECT_DIR$/frontend/app/about/about.html" />
         <option value="$PROJECT_DIR$/frontend/app/app.css" />
+        <option value="$PROJECT_DIR$/frontend/app/home/home.js" />
+        <option value="$PROJECT_DIR$/frontend/app/app.js" />
+        <option value="$PROJECT_DIR$/frontend/app/index.html" />
         <option value="$PROJECT_DIR$/frontend/app/contact/contact.html" />
       </list>
     </option>
@@ -163,9 +176,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="505" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="870" />
     <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -193,7 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -227,8 +238,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="evodent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="evodent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="evodent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="evodent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -489,29 +541,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="505" y="23" width="1440" height="822" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="870" height="822" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28381643" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40136987" sideWeight="0.5088853" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.49353796" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3452055" sideWeight="0.4911147" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16380544" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650274" sideWeight="0.49353796" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3452055" sideWeight="0.4911147" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32650274" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -798,13 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/app/home/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/node_modules/union/examples/simple/favicon.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -858,13 +903,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/app/img/implants/screw-retained-zirconia-crown.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -900,7 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -908,13 +945,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3761062">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/app/diagnostic-wax-ups/diagnostic-wax-ups.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -923,10 +959,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/app/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#h5#0;n#span#0;n#a#0;n#div#2;n#section#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/app/about/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/app/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-309.375">
+          <caret line="495" column="1" selection-start-line="495" selection-start-column="1" selection-end-line="495" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/app/home/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43333334">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.541667">
-          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="26" column="100" selection-start-line="26" selection-start-column="100" selection-end-line="26" selection-end-column="100" />
           <folding>
             <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -941,38 +1021,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/app/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.916667">
-          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#h5#0;n#span#0;n#a#0;n#div#2;n#section#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/app/about/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/app/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.541666">
-          <caret line="495" column="1" selection-start-line="495" selection-start-column="1" selection-end-line="495" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/app/contact/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8450704">
-          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.63380283">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
@@ -981,6 +1033,7 @@
             <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#2;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#1;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
